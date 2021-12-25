@@ -7,6 +7,7 @@ import Home from "./pages/Home.vue";
     <template #default>
       <Home />
     </template>
+
     <template #fallback>
       <div>Loading...</div>
     </template>
